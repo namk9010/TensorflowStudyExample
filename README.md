@@ -29,3 +29,5 @@ NamJungGu, <nowage[at]gmail.com>
 # COPYRIGHT AND LICENSE
 
 (c) Copyright 2005-2018 by finfra.com
+
+by nnn
